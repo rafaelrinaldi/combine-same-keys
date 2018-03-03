@@ -1,0 +1,36 @@
+{
+  "name": "combine-same-keys",
+  "version": "0.1.0",
+  "description": "Combine all properties sharing the same key into a single object",
+  "license": "MIT",
+  "repository": "github:rafaelrinaldi/combine-same-keys",
+  "main": "dist/combineSameKeys.umd.js",
+  "jsnext:main": "dist/combineSameKeys.es.js",
+  "module": "dist/combineSameKeys.es.js",
+  "keywords": [
+    "combine",
+    "css-in-js",
+    "extend",
+    "helper",
+    "keys",
+    "merge",
+    "object",
+    "util"
+  ],
+  "scripts": {
+    "test": "NODE_ENV=test prettier-standard index.js && jest --verbose",
+    "build": "rollup -c"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest-cli": "^22.4.2",
+    "prettier-standard": "^8.0.0",
+    "rollup": "^0.56.3",
+    "rollup-plugin-babel": "^3.0.3"
+  }
+}
