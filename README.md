@@ -1,6 +1,6 @@
 [url]: https://rinaldi.io
 
-# combine-same-keys
+# combine-same-keys [![Build Status](https://semaphoreci.com/api/v1/rafaelrinaldi/combine-same-keys/branches/master/badge.svg)](https://semaphoreci.com/rafaelrinaldi/combine-same-keys)
 > Combine all properties sharing the same key into a single object
 
 ## Install
