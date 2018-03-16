@@ -1,6 +1,6 @@
 {
   "name": "combine-same-keys",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Combine all properties sharing the same key into a single object",
   "license": "MIT",
   "repository": "github:rafaelrinaldi/combine-same-keys",
