@@ -46,3 +46,9 @@ Type: rest parameter with `Object` entries
 ## License
 
 MIT © [Rafael Rinaldi][url]
+
+---
+
+<p align="center">
+  <a href="https://buymeacoff.ee/rinaldi" title="Buy me a coffee">Buy me a ☕</a>
+</p>
